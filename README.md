@@ -3,7 +3,7 @@
 A simple and interactive command-line interface (CLI) tool written in Go for fetching real-time cryptocurrency prices from popular exchanges.
 
 ---
-![Crypto CLI Screenshot](asstes/images/cli-image.png)
+![Crypto CLI Screenshot](assets/images/cli-image.png)
 
 ## Features
 
