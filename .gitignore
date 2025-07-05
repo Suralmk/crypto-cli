@@ -1,0 +1,36 @@
+# Binaries
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+
+# Output of 'go build'
+/bin/
+/build/
+
+# Vendor directory (optional, if you use vendoring)
+/vendor/
+
+# Go modules files (do NOT ignore go.mod or go.sum generally)
+/Gopkg.lock
+/Gopkg.toml
+
+# IDE/editor files
+.vscode/
+.idea/
+*.iml
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Test coverage files
+*.out
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.temp
